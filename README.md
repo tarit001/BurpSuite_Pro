@@ -11,7 +11,7 @@
  
 <br></br>
 
-<h1 align="center"> $${\color{orange}Linux- Installation}$$ </h1>
+<h1 align="center"> $${\color{orange}KALI Linux- Installation}$$ </h1>
 
 <br></br>
 
