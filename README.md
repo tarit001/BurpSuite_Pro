@@ -17,7 +17,7 @@
 
 # $${\color{cyan}Install}$$
 ```sh
-git clone https://github.com/tarit001/BurpSuit_Pro.git && cd BurpSuit_Pro && chmod +x install.sh && ./install.sh
+git clone https://github.com/tarit001/BurpSuite_Pro.git && cd BurpSuite_Pro && chmod +x install.sh && ./install.sh
 ```
 # $${\color{cyan}Run}$$
 ```sh
