@@ -26,7 +26,7 @@ burpsuitepro
 
 # $${\color{cyan}Rename tool name}$$
 ```sh
-cp burpsuitepro /usr/bin/{burp-pro}
+cp burpsuitepro /usr/bin/burp-pro  #at the end, what you want of this tool name
 ```
 
 <details><summary>
