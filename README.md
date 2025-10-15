@@ -17,12 +17,18 @@
 
 # $${\color{cyan}Install}$$
 ```sh
-git clone https://github.com/tarit001/BurpSuite_Pro.git && cd BurpSuite_Pro && chmod +x install.sh && ./install.sh
+sudo git clone https://github.com/tarit001/BurpSuite_Pro.git && cd BurpSuite_Pro && chmod +x install.sh && ./install.sh
 ```
 # $${\color{cyan}Run}$$
 ```sh
 burpsuitepro
 ```
+
+# $${\color{cyan}Rename tool name}$$
+```sh
+cp burpsuitepro /usr/bin/{burp-pro}
+```
+
 <details><summary>
 
 # $${\color{cyan}Update}$$
